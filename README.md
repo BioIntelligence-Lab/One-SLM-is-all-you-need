@@ -1,6 +1,6 @@
 # One SLM is All You Need: Multi-Task Clinical NLP with Privacy-Preserving Small Language Models
 
-[![Paper](https://link.springer.com/article/10.1007/s10278-026-01912-4)](https://link.springer.com/article/10.1007/s10278-026-01912-4)
+[![Paper](https://img.shields.io/badge/Paper-JIIM%202026-blue)](https://link.springer.com/article/10.1007/s10278-026-01912-4)
 
 ## TL;DR
 We show that a single fine-tuned small language model (OPT-350M + LoRA) can outperform GPT-4o across multiple clinical NLP tasks, while being:
